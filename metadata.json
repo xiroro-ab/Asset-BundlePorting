@@ -1,0 +1,6 @@
+{
+  "name": "Unity AssetBundle Porter",
+  "description": "A tool to automate the porting and modifying of Unity AssetBundles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
